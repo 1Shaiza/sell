@@ -40,7 +40,7 @@ getgenv().Settings = {
                 ["Secret Key"] = {Class = "Misc", Price = "20000"},
                 ["Void Key"] = {Class = "Misc", Price = "50000"},
                 ["Mini Chest"] = {Class = "Misc", Price = "33500"},
-                ["Crystal Key"] = {Class = "Misc", Price = "12500"},
+                ["Crystal Key"] = {Class = "Misc", Price = "12000"},
                 ["Tech Key"] = {Class = "Misc", Price = "20000"},
                 ["Golden Prison Key"] = {Class = "Misc", Price = "155000"},
 
